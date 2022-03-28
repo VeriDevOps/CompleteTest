@@ -1,6 +1,5 @@
-# CompleteTest
+# CompleteTest: Automatic Test Generation for Function Block Diagrams
 ![stained-glass-gd9a3a292b_1920](https://user-images.githubusercontent.com/7644735/160358479-ebcf8c0a-b51d-4052-99e1-1d72832796da.jpg)
-CompleteTest: Automatic Test Generation for Function Block Diagrams
 
 # Documentation
 
