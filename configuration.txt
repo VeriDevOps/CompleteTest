@@ -1,0 +1,28 @@
+### Set the user name. 
+### This information is used for export functionality
+user.name = Eduard Paul Enoiu
+#user.name = Andreas Blomkvist
+
+### Set coverage type. 
+### For Bombardier (for now) should be: DC - Decision Coverage
+coverage.type = DC
+#coverage.type = CC
+#coverage.type = MC/DC
+
+### Experimental, should be off (false) by default
+params.staticAnalysis = false
+
+### For debuging purposes, should be off (false) by default
+transformation.off = false
+
+### If set to true, tests will not be minimised. Useful in some cases but should be off (false) by default
+minimization.off = false
+
+### What value should be presented as a default one for boolean types. Recomended to be set to empty
+#expected.default.boolean = 
+expected.default.boolean = false
+#expected.default.boolean = true
+
+### For export functionality. 
+### On some systems Excel recognize csv files only if they use "," and on some only if it is ";"
+csv.separator = ;
