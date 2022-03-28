@@ -1,10 +1,8 @@
 ### Set the user name. 
 ### This information is used for export functionality
 user.name = Eduard Paul Enoiu
-#user.name = Andreas Blomkvist
 
 ### Set coverage type. 
-### For Bombardier (for now) should be: DC - Decision Coverage
 coverage.type = DC
 #coverage.type = CC
 #coverage.type = MC/DC
